@@ -7,4 +7,5 @@ Stella simulation models can include an online interface that can be published a
 * Use a model in academic presentations to community a "proof of concept" model to colleagues. Here's an [example](https://exchange.iseesystems.com/public/psh/bettr/index.html#page1) of a model used by the PI to community the core idea behind their transdisciplinary research.   
 * Use an interface to create a **truly** interactive poster session. Here's an [example](https://exchange.iseesystems.com/public/psh/human-resiliency/index.html#page1) of an interface presented as an interactive poster allowing users to explore scenarios and different combinations of interventions. 
 * Provide a platform for stakeholders to explore implications of policies. Here's an [example](https://exchange.iseesystems.com/public/psh/relationship-and-sexual-violence/index.html#page1) of an interface exploring different campus sexual assault prevention and intervention strategies.  
+* Develop a prototype multiplayer interactive game for workshops, e.g., for raising awareness and providing tools for addressing collective action problems. 
 
